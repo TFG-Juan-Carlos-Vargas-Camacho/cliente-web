@@ -216,112 +216,112 @@ Según Bauer (1994), la táctica se divide en ofensiva y defensiva, dependiendo 
 			    
 			    -   En el fútbol moderno, los defensores deben ser capaces de jugar con el balón en los pies, realizar pases precisos y contribuir al juego ofensivo.
 
-- **Centro Campista:**  también conocido como mediocampista, es un jugador clave en el fútbol que actúa como nexo entre la defensa y el ataque. Su posición en el medio del campo le otorga una gran responsabilidad en el control del juego, ya que debe equilibrar las tareas defensivas y ofensivas para garantizar el buen funcionamiento del equipo. Este jugador es considerado el "motor" del equipo, ya que su labor influye directamente en la posesión del balón, la creación de oportunidades de gol y la contención de los ataques rivales.
+	- **Centro Campista:**  también conocido como mediocampista, es un jugador clave en el fútbol que actúa como nexo entre la defensa y el ataque. Su posición en el medio del campo le otorga una gran responsabilidad en el control del juego, ya que debe equilibrar las tareas defensivas y ofensivas para garantizar el buen funcionamiento del equipo. Este jugador es considerado el "motor" del equipo, ya que su labor influye directamente en la posesión del balón, la creación de oportunidades de gol y la contención de los ataques rivales.
 
-	- **Roles y responsabilidades del centrocampista:**
+		- **Roles y responsabilidades del centrocampista:**
 
-		1.  **Pase y distribución**:  
-		    Los centrocampistas son expertos en distribuir el balón con precisión, ya sea en distancias cortas o largas. Su capacidad para mantener la posesión y crear oportunidades de gol es fundamental. Además, controlan el ritmo del juego, acelerando o ralentizando las jugadas según las necesidades del equipo.
-		    
-		2.  **Visión y creatividad**:  
-		    Un buen centrocampista tiene una visión excepcional del campo, lo que le permite anticiparse a las jugadas y tomar decisiones rápidas. Su creatividad es crucial para desbloquear defensas rivales y proporcionar asistencias decisivas.
-		    
-		3.  **Regate y control del balón**:  
-		    El dominio del balón y la habilidad para driblar son esenciales para los centrocampistas. Estas habilidades les permiten mantener la posesión bajo presión y crear espacios para ellos mismos y sus compañeros.
-		    
-		4.  **Habilidades defensivas y ofensivas**:  
-		    Los centrocampistas deben ser versátiles, contribuyendo tanto en la defensa como en el ataque. En defensa, interceptan pases, realizan entradas y actúan como escudo protector. En ataque, inician jugadas, asisten a los delanteros y, en ocasiones, marcan goles.
-		    
-		5.  **Disciplina táctica**:  
-		    La posición del centrocampista exige una gran disciplina táctica. Debe seguir las instrucciones del entrenador, mantener su posición en el campo y ofrecer opciones de pase constantemente. Su capacidad para adaptarse a las estrategias del equipo es vital.
-		    
-		6.  **Fisicalidad**:  
-		    Los centrocampistas cubren grandes distancias durante un partido, por lo que deben estar en excelente forma física. La resistencia, la velocidad y la agilidad son atributos clave para participar en acciones defensivas y ofensivas durante los 90 minutos.
-		    
-		7.  **Liderazgo y comunicación**:  
-		    Muchos centrocampistas asumen roles de liderazgo en el campo. Su capacidad para comunicarse con los compañeros, organizar la formación y dar instrucciones es fundamental para mantener la cohesión del equipo.
-	    
+			1.  **Pase y distribución**:  
+				Los centrocampistas son expertos en distribuir el balón con precisión, ya sea en distancias cortas o largas. Su capacidad para mantener la posesión y crear oportunidades de gol es fundamental. Además, controlan el ritmo del juego, acelerando o ralentizando las jugadas según las necesidades del equipo.
+				
+			2.  **Visión y creatividad**:  
+				Un buen centrocampista tiene una visión excepcional del campo, lo que le permite anticiparse a las jugadas y tomar decisiones rápidas. Su creatividad es crucial para desbloquear defensas rivales y proporcionar asistencias decisivas.
+				
+			3.  **Regate y control del balón**:  
+				El dominio del balón y la habilidad para driblar son esenciales para los centrocampistas. Estas habilidades les permiten mantener la posesión bajo presión y crear espacios para ellos mismos y sus compañeros.
+				
+			4.  **Habilidades defensivas y ofensivas**:  
+				Los centrocampistas deben ser versátiles, contribuyendo tanto en la defensa como en el ataque. En defensa, interceptan pases, realizan entradas y actúan como escudo protector. En ataque, inician jugadas, asisten a los delanteros y, en ocasiones, marcan goles.
+				
+			5.  **Disciplina táctica**:  
+				La posición del centrocampista exige una gran disciplina táctica. Debe seguir las instrucciones del entrenador, mantener su posición en el campo y ofrecer opciones de pase constantemente. Su capacidad para adaptarse a las estrategias del equipo es vital.
+				
+			6.  **Fisicalidad**:  
+				Los centrocampistas cubren grandes distancias durante un partido, por lo que deben estar en excelente forma física. La resistencia, la velocidad y la agilidad son atributos clave para participar en acciones defensivas y ofensivas durante los 90 minutos.
+				
+			7.  **Liderazgo y comunicación**:  
+				Muchos centrocampistas asumen roles de liderazgo en el campo. Su capacidad para comunicarse con los compañeros, organizar la formación y dar instrucciones es fundamental para mantener la cohesión del equipo.
+			
 
-	- **Tipos de centrocampistas:**
+		- **Tipos de centrocampistas:**
 
-		1.  **Centrocampista central (CM)**:  
-		    Este jugador es el eje del equipo, ubicándose en el centro del campo. Su principal función es equilibrar el juego, contribuyendo tanto en defensa como en ataque. Destaca por su capacidad de pase, visión de juego y control del balón.
-		    
-		2.  **Centrocampista defensivo (CDM)**:  
-		    También conocido como "mediocentro defensivo" o "pivote", este jugador se sitúa por delante de la defensa y actúa como escudo protector. Sus principales atributos son la capacidad de interceptar pases, realizar entradas y distribuir el balón con seguridad.
-		    
-		3.  **Centrocampista ofensivo (CAM)**:  
-		    Este jugador, conocido como "mediapunta", se ubica detrás de los delanteros y es el encargado de crear oportunidades de gol. Destaca por su creatividad, visión de juego y precisión en el pase. Además, suele tener buena capacidad de remate.
-		    
-		4.  **Centrocampista abierto (extremo)**:  
-		    Los centrocampistas abiertos, también llamados "interiores" o "volantes", juegan cerca de las bandas. Su función es desbordar por los costados, centrar el balón y generar peligro en las áreas rivales. Requieren velocidad, regate y capacidad de desmarque.
-	    
-		5.  **Centrocampista de área a área (box-to-box)**:  
-		    Este tipo de centrocampista se caracteriza por su gran resistencia y versatilidad. Cubre todo el campo, participando tanto en acciones defensivas como ofensivas. Es un jugador dinámico que realiza carreras constantes para apoyar a sus compañeros.
-	    
+			1.  **Centrocampista central (CM)**:  
+				Este jugador es el eje del equipo, ubicándose en el centro del campo. Su principal función es equilibrar el juego, contribuyendo tanto en defensa como en ataque. Destaca por su capacidad de pase, visión de juego y control del balón.
+				
+			2.  **Centrocampista defensivo (CDM)**:  
+				También conocido como "mediocentro defensivo" o "pivote", este jugador se sitúa por delante de la defensa y actúa como escudo protector. Sus principales atributos son la capacidad de interceptar pases, realizar entradas y distribuir el balón con seguridad.
+				
+			3.  **Centrocampista ofensivo (CAM)**:  
+				Este jugador, conocido como "mediapunta", se ubica detrás de los delanteros y es el encargado de crear oportunidades de gol. Destaca por su creatividad, visión de juego y precisión en el pase. Además, suele tener buena capacidad de remate.
+				
+			4.  **Centrocampista abierto (extremo)**:  
+				Los centrocampistas abiertos, también llamados "interiores" o "volantes", juegan cerca de las bandas. Su función es desbordar por los costados, centrar el balón y generar peligro en las áreas rivales. Requieren velocidad, regate y capacidad de desmarque.
+			
+			5.  **Centrocampista de área a área (box-to-box)**:  
+				Este tipo de centrocampista se caracteriza por su gran resistencia y versatilidad. Cubre todo el campo, participando tanto en acciones defensivas como ofensivas. Es un jugador dinámico que realiza carreras constantes para apoyar a sus compañeros.
+			
 
-	- **Atributos clave de un centrocampista:**
+		- **Atributos clave de un centrocampista:**
 
-		-   **Pase y distribución**: Capacidad para distribuir el balón con precisión y mantener la posesión.
-		    
-		-   **Visión y conciencia**: Habilidad para leer el juego y anticiparse a las jugadas.
-		    
-		-   **Control del balón y regate**: Dominio técnico para mantener la posesión bajo presión.
-		    
-		-   **Resistencia y ritmo de trabajo**: Capacidad física para cubrir grandes distancias durante el partido.
-		    
-		-   **Habilidades defensivas y ofensivas**: Versatilidad para contribuir en ambas fases del juego.
-		    
-		-   **Liderazgo y comunicación**: Capacidad para organizar al equipo y dar instrucciones.
+			-   **Pase y distribución**: Capacidad para distribuir el balón con precisión y mantener la posesión.
+				
+			-   **Visión y conciencia**: Habilidad para leer el juego y anticiparse a las jugadas.
+				
+			-   **Control del balón y regate**: Dominio técnico para mantener la posesión bajo presión.
+				
+			-   **Resistencia y ritmo de trabajo**: Capacidad física para cubrir grandes distancias durante el partido.
+				
+			-   **Habilidades defensivas y ofensivas**: Versatilidad para contribuir en ambas fases del juego.
+				
+			-   **Liderazgo y comunicación**: Capacidad para organizar al equipo y dar instrucciones.
+			
+	- **Atacante:** también conocido como delantero, es un jugador fundamental en el fútbol cuya principal responsabilidad es marcar goles y crear oportunidades de gol para su equipo. Este jugador se posiciona en la primera línea de la formación, cerca de la portería contraria, y su objetivo principal es superar a la defensa rival para anotar. Para lograrlo, los atacantes combinan velocidad, agilidad, habilidad técnica y conciencia táctica. Su capacidad para marcar goles, regatear y posicionarse inteligentemente los distingue como piezas clave en el equipo.
 		
-- **Atacante:** también conocido como delantero, es un jugador fundamental en el fútbol cuya principal responsabilidad es marcar goles y crear oportunidades de gol para su equipo. Este jugador se posiciona en la primera línea de la formación, cerca de la portería contraria, y su objetivo principal es superar a la defensa rival para anotar. Para lograrlo, los atacantes combinan velocidad, agilidad, habilidad técnica y conciencia táctica. Su capacidad para marcar goles, regatear y posicionarse inteligentemente los distingue como piezas clave en el equipo.
-	
-	- **Roles y Responsabilidades del Atacante:**
+		- **Roles y Responsabilidades del Atacante:**
 
-		1.  **Marcar goles**: La tarea principal de un atacante es anotar goles. Esto implica recibir pases, disparar con precisión y aprovechar las oportunidades dentro del área. Requiere talento para el remate, frialdad bajo presión y anticipación.
-		    
-		2.  **Crear oportunidades de gol**: Además de marcar, los atacantes deben generar oportunidades para sus compañeros. Utilizan su visión de juego, habilidad para el regate y capacidad de pase para crear situaciones peligrosas mediante pases en profundidad, centros o asistencias precisas.
-		    
-		3.  **Realizar carreras inteligentes**: Los atacantes deben moverse estratégicamente para desequilibrar a la defensa rival. Realizan carreras detrás de la línea defensiva, diagonales o curvas para recibir pases en zonas peligrosas y aprovechar los espacios.
-		    
-		4.  **Presionar a los defensores**: Los atacantes también tienen un rol defensivo. Deben presionar a los defensores rivales, cerrar líneas de pase y forzar errores para recuperar la posesión rápidamente.
-		    
-		5.  **Liderar contraataques**: En transiciones defensa-ataque, los atacantes son cruciales. Deben explotar los espacios dejados por el rival y lanzar contraataques rápidos y efectivos.
-		    
-		6.  **Tomar decisiones rápidas**: En situaciones de alta presión, los atacantes deben decidir en fracciones de segundo si disparar, pasar o regatear, evaluando las posiciones de sus compañeros y rivales.
-	    
+			1.  **Marcar goles**: La tarea principal de un atacante es anotar goles. Esto implica recibir pases, disparar con precisión y aprovechar las oportunidades dentro del área. Requiere talento para el remate, frialdad bajo presión y anticipación.
+				
+			2.  **Crear oportunidades de gol**: Además de marcar, los atacantes deben generar oportunidades para sus compañeros. Utilizan su visión de juego, habilidad para el regate y capacidad de pase para crear situaciones peligrosas mediante pases en profundidad, centros o asistencias precisas.
+				
+			3.  **Realizar carreras inteligentes**: Los atacantes deben moverse estratégicamente para desequilibrar a la defensa rival. Realizan carreras detrás de la línea defensiva, diagonales o curvas para recibir pases en zonas peligrosas y aprovechar los espacios.
+				
+			4.  **Presionar a los defensores**: Los atacantes también tienen un rol defensivo. Deben presionar a los defensores rivales, cerrar líneas de pase y forzar errores para recuperar la posesión rápidamente.
+				
+			5.  **Liderar contraataques**: En transiciones defensa-ataque, los atacantes son cruciales. Deben explotar los espacios dejados por el rival y lanzar contraataques rápidos y efectivos.
+				
+			6.  **Tomar decisiones rápidas**: En situaciones de alta presión, los atacantes deben decidir en fracciones de segundo si disparar, pasar o regatear, evaluando las posiciones de sus compañeros y rivales.
+			
 
-	- **Tipos de Atacantes:**
+		- **Tipos de Atacantes:**
 
-		1.  **Delantero central (Hombre objetivo)**:
-		    
-		    -   Es un jugador físico, especializado en retener el balón, ganar duelos aéreos y actuar como punto de referencia en el ataque.
-		        
-		    -   **Atributos clave**: Fortaleza, posicionamiento, remate de cabeza, toque clínico y movimiento sin balón.
-		        
-		2.  **Delantero completo (Huelguista)**:
-		    
-		    -   Un atacante versátil que combina velocidad, fuerza, habilidad técnica y capacidad goleadora. Puede adaptarse a diversas situaciones ofensivas.
-		        
-		    -   **Atributos clave**: Refinamiento, posicionamiento, remate, movimiento sin balón y toque clínico.
-		        
-		3.  **Extremo**:
-		    
-		    -   Juega en las bandas y utiliza su velocidad y regate para desbordar a los defensores y centrar al área. También puede cortar hacia adentro para disparar.
-		        
-		    -   **Atributos clave**: Regate, centros, ritmo, habilidad uno contra uno y capacidad para cortar hacia el interior.
-		        
-		4.  **Falso 9**:
-		    
-		    -   Un atacante que se repliega hacia el mediocampo para crear confusión en la defensa rival. Actúa como armador de juego, combinándose con mediocampistas y extremos.
-		        
-		    -   **Atributos clave**: Inteligencia táctica, caída profunda, creación de juego, regate, pase y visión.
-		        
-		5.  **Trequartista**:
-		    
-		    -   Un mediocampista ofensivo que juega entre las líneas y destaca por su creatividad, visión y capacidad para desequilibrar con pases incisivos o regates.
-	        
-			-   **Atributos clave**: Creatividad, visión, pase, creación de juego, toma de decisiones y habilidad para el regate.
+			1.  **Delantero central (Hombre objetivo)**:
+				
+				-   Es un jugador físico, especializado en retener el balón, ganar duelos aéreos y actuar como punto de referencia en el ataque.
+					
+				-   **Atributos clave**: Fortaleza, posicionamiento, remate de cabeza, toque clínico y movimiento sin balón.
+					
+			2.  **Delantero completo (Huelguista)**:
+				
+				-   Un atacante versátil que combina velocidad, fuerza, habilidad técnica y capacidad goleadora. Puede adaptarse a diversas situaciones ofensivas.
+					
+				-   **Atributos clave**: Refinamiento, posicionamiento, remate, movimiento sin balón y toque clínico.
+					
+			3.  **Extremo**:
+				
+				-   Juega en las bandas y utiliza su velocidad y regate para desbordar a los defensores y centrar al área. También puede cortar hacia adentro para disparar.
+					
+				-   **Atributos clave**: Regate, centros, ritmo, habilidad uno contra uno y capacidad para cortar hacia el interior.
+					
+			4.  **Falso 9**:
+				
+				-   Un atacante que se repliega hacia el mediocampo para crear confusión en la defensa rival. Actúa como armador de juego, combinándose con mediocampistas y extremos.
+					
+				-   **Atributos clave**: Inteligencia táctica, caída profunda, creación de juego, regate, pase y visión.
+					
+			5.  **Trequartista**:
+				
+				-   Un mediocampista ofensivo que juega entre las líneas y destaca por su creatividad, visión y capacidad para desequilibrar con pases incisivos o regates.
+				
+				-   **Atributos clave**: Creatividad, visión, pase, creación de juego, toma de decisiones y habilidad para el regate.
 
 - **Formación (Lopéz Ros, 2001):**  La estructura básica que un equipo adopta en el terreno de juego, determinada por la posición inicial de los jugadores y diseñada para aprovechar al máximo las capacidades individuales dentro de un esquema colectivo.
 
@@ -2515,7 +2515,7 @@ En el trading de  **FC 25**, las pérdidas son inevitables debido a la volatilid
 		3.  **Herramientas analíticas**: Recursos que ayudan a evaluar tendencias del mercado y predecir aumentos de valor en las cartas.
     
 
-	Estas herramientas no solo simplifican el proceso de tradeo, sino que también permiten tomar decisiones más informadas y estar un paso adelante en un mercado altamente dinámico.
+		Estas herramientas no solo simplifican el proceso de tradeo, sino que también permiten tomar decisiones más informadas y estar un paso adelante en un mercado altamente dinámico.
 
 #### Modos de Juego
 
